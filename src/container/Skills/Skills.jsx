@@ -84,7 +84,7 @@ const Skills = () => {
 
   const experiences = [
     {
-      year: "May, 2024 - Sep, 2024",
+      year: "June, 2023 - Dec, 2023",
       works: [
         {
           name: "Software Developer",
